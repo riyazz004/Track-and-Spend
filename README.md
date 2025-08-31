@@ -1,5 +1,35 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Track & Spend
 
+A simple and intuitive expense tracking application that helps users record, categorize, and manage their daily spending. Built as a full-stack project to demonstrate skills in frontend, backend, and database integration.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+🚀 Features
+🔐 User Authentication (Sign up / Login / Logout) 
+
+➕ Add Expenses with amount, description, and category
+
+✏️ Edit & Delete Expenses
+
+📊 View Spending Summary by category or time period
+
+📂 Persistent Data Storage in database
+
+📱 Responsive UI for desktop and mobile
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+🛠️ Tech Stack
+Frontend: React.js , TypeScript, CSS
+
+Backend: Node.js, Express.js  API routes
+
+Database: Neon(Postgres)
+
+ORM: Drizzle ORM
+
+Authentication: Clerk
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Getting Started
 
 First, run the development server:
