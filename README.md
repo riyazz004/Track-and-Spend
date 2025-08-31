@@ -1,5 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-Track & Spend
+
+Track&Spend
 
 A simple and intuitive expense tracking application that helps users record, categorize, and manage their daily spending. Built as a full-stack project to demonstrate skills in frontend, backend, and database integration.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
