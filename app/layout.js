@@ -7,7 +7,7 @@ const outfit=Outfit({subsets:["latin"]})
 
 
 export const metadata = {
-  itle: "Track & Spend",
+  title: "Track & Spend",
   description: "Mange your expenses easily with Track & Spend",
 };
 
